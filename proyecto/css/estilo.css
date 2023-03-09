@@ -1,0 +1,42 @@
+
+p{
+	color:blueviolet;
+	font-size: 14pt;
+}
+h1{
+	color: black;
+	text-align: center;
+	font-size: 18pt;
+}
+
+h2{
+	color: rgba(199, 28, 28, 0.719);
+	text-align: center;
+	font-size: 16pt;
+}
+
+body{
+	background-image: url('https://i.pinimg.com/564x/8f/ce/e3/8fcee31d1830ddab7b2e5a7edc9167d2.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+font{
+	color: white;
+}
+
+.caja1
+{
+	background-color: rgba(0, 0, 0, .5);
+	width:20em;
+    height: auto;
+    position: relative;
+    margin: auto;
+    padding: 2em;
+	border-radius: 1em;
+	color:black;
+
+
+}
